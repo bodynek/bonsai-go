@@ -1,0 +1,7 @@
+api_only: false
+service_only: false
+api_host: "127.0.0.1"
+api_port: 8081
+svc_port: 8080
+redis_host: "redis-server"
+redis_port: 6380
